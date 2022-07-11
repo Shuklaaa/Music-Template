@@ -86,20 +86,17 @@ body{
   }
 
   .bi-cart{
-    position: absolute;
-    right: 100;
+    float: right;
   }
 
 
   .bi-search-heart-fill{
-    position: absolute;
-    right: 64;
+    float: right;
   }
 
 
   .bi-list{
-    position: absolute;
-    right: 40;
+    float: right;
   }
 
 
